@@ -1,6 +1,6 @@
-## Epicodus week 1 assessment
+## To Do List - Epicodus week 2 project
 
-Javascript function to find any repeated words in a sentence and remove the duplicates
+Basic page that allows the addition and removal of tasks and completion dates
 
 by J.J. Idt
 
